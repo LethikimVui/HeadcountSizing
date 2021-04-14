@@ -1,0 +1,38 @@
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\bin\Release\netcoreapp2.1\HCSizingAPI.deps.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\bin\Release\netcoreapp2.1\HCSizingAPI.runtimeconfig.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\bin\Release\netcoreapp2.1\HCSizingAPI.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\bin\Release\netcoreapp2.1\HCSizingAPI.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\bin\Release\netcoreapp2.1\HCSizingAPI.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\bin\Release\netcoreapp2.1\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\bin\Release\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\bin\Release\netcoreapp2.1\Services.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\bin\Release\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.AssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\bin\Release\netcoreapp2.1\HCSizingAPI.deps.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\bin\Release\netcoreapp2.1\HCSizingAPI.runtimeconfig.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\bin\Release\netcoreapp2.1\HCSizingAPI.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\bin\Release\netcoreapp2.1\HCSizingAPI.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\bin\Release\netcoreapp2.1\HCSizingAPI.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\bin\Release\netcoreapp2.1\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\bin\Release\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\bin\Release\netcoreapp2.1\Services.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\bin\Release\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.AssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizingAPI\obj\Release\netcoreapp2.1\HCSizingAPI.pdb

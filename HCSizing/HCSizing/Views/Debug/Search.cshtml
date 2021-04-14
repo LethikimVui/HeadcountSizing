@@ -1,0 +1,227 @@
+﻿@model SharedObjects.ViewModels.AddDebugRawDataViewModel
+
+@{
+    var NTID = User.Identity.Name.Split("\\")[1];
+
+    var WCs = ViewData["WCs"] as IEnumerable<SharedObjects.ValueObjects.VWC>
+    ;
+    ViewData["Title"] = "Search";
+    ViewData["NTID"] = NTID;
+    ViewData["displayName"] = ViewData["displayName"];
+
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <!-- BEGIN EXAMPLE TABLE PORTLET-->
+            <div class="portlet light" style="height:1700px">
+                <div class="portlet-title">
+
+                    <div class="caption col-md-12">
+                        <span class="caption-subject font-green-sharp bold uppercase">
+                            Debug Headcount Sizing
+                        </span>
+
+                    </div>
+
+                    <div class="portlet-body">
+
+                        <div class="table-toolbar">
+                            <form class="modal-body" id="">
+                                <div class="pull-left">
+
+                                    <label class="text-center bold font-green-sharp" for="txt-WC">WorkCell</label>
+                                </div>
+                                <div class="col-md-3 pull-left">
+                                    <select class="form-control" id="txt-wc" data-search="wc" name="wc" style="color:mediumvioletred">
+                                        <option value="0">--Please Select--</option>
+
+                                        @foreach (var item in @WCs.OrderByDescending(c => c.Wcname).ToList())
+                                            {
+                                        <option value=@item.Wcname>@item.Wcname</option>
+                                            }
+                                    </select>
+                                </div>
+                                <div class="col-md-1  pull-left">
+                                    <a class="btn btn-success" id="btn-search">Search</a>
+                                </div>
+                                <div class="col-md-1 pull-left box" id="box"></div>
+                                <div class="col-md-1  pull-left">
+                                </div>
+
+                            </form>
+                        </div>
+                        <hr style="height:5px" />
+
+                    </div>
+                </div>
+                <div id="table-rawdata" class="table-responsive col-md-12 table-responsive" style="height:500px">
+
+
+                </div>
+                <div id="table-debugdata" class="table-responsive col-md-12 table-responsive" style="height:250px">
+
+                </div>
+                <div id="table-debugresult" class="table-responsive col-md-12 table-responsive" style="height:700px">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!--Modal debug RAW data - update-->
+<!-- Kết thúc Modal debug RAW data - update-->
+<!--Modal debug data - update-->
+@*<div class="modal-area">
+
+        <div class="modal fade" id="modal-debugdata" tabindex="-1" role="columnheader" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                        <h4 class="modal-title">Modify Debug Data</h4>
+                        <p hidden id="hid-id"></p>
+                    </div>
+                    <form class="modal-body" id="frm-save-debugdata" data-id="">
+                        <div class="form-group">
+                            <label for="txt-CourseName">
+                                Station Name
+                            </label>
+                            <input type="text" class="form-control" id="txt-station" name="Station">
+                        </div>
+                        <div class="form-group">
+                            <label for="txt-CourseName">
+                                Debug Hit Rate (%)
+                            </label>
+                            <input type="text" class="form-control" id="txt-DebugHitrateYield" name="DebugHitrateYield">
+                        </div>
+                        <div class="form-group">
+                            <label for="txt-CourseName">NormalRate</label>
+                            <input type="text" class="form-control" id="txt-NormalRate" name="NormalRate">
+                        </div>
+                        <div class="form-group">
+                            <label for="txt-CourseName">Average Debug Time (Normal Board)(mins)</label>
+                            <input type="text" class="form-control" id="txt-DebugTimeForNormalBoard" name="DebugTimeForNormalBoard">
+                        </div>
+                        <div class="form-group">
+                            <label for="txt-CourseName">Average Debug Time (Hardcore Board)(mins)</label>
+                            <input type="text" class="form-control" id="txt-DebugTimeForHardcoreBoard" name="DebugTimeForHardcoreBoard">
+                        </div>
+                        <div class="form-group">
+                            <label for="txt-CourseName">FPY (%)</label>
+                            <input type="text" class="form-control" id="txt-FinalYield" name="FinalYield">
+                        </div>
+                        <div class="form-group">
+                            <label for="txt-CourseName">Debug Retest Pass Yield (%)</label>
+                            <input type="text" class="form-control" id="txt-DebugRetestPassYield" name="DebugRetestPassYield">
+                        </div>
+                        <div class="form-group">
+                            <label for="txt-RMA">RMA (Qty)</label>
+                            <input type="text" class="form-control" id="txt-RMA" name="RMA">
+                        </div>
+                        <div class="form-group">
+                            <label for="txt-Image">Last Updated By</label>
+                            <label class="form-control" id="txt-LastUpdateBy">@NTID</label>
+                        </div>
+                    </form>
+                    <div class="modal-footer">
+                        <button type="button" class="btn default" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn blue" id="btn-save-debugdata">Save</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>*@
+<!--Kết thúc Modal debug data - update-->
+@section Script{
+    <script>
+        function fncOnChangeTech(loggedTech, month) {
+            debugger
+            var crrr = `#Current-${month}`;
+            var calculated = $(`${crrr}`).text();
+            var result = loggedTech - calculated;
+            if (result == 0) {
+                $(`${crrr}`).attr("style", "background-color: yellow");
+            }
+            else if (result < 0) {
+                $(`${crrr}`).attr("style", "background-color: red");
+            }
+            else {
+                $(`${crrr}`).attr("style", "background-color: green");
+            }
+        }
+        function fncOnChangeOperator(loggedOP, month) {
+            debugger
+            var crrr = `#Current-${month}`;
+            var calculated = $(`${crrr}`).text();
+            var result = loggedOP - calculated;
+            if (result == 0) {
+                $(`${crrr}`).attr("style", "background-color: yellow");
+            }
+            else if (result < 0) {
+                $(`${crrr}`).attr("style", "background-color: red");
+            }
+            else {
+                $(`${crrr}`).attr("style", "background-color: green");
+            }
+        }
+
+
+        function closeInput(elm) {
+            var td = elm.parentNode;
+            var value = elm.value;
+            td.setAttribute('style', 'background-color:cyan')
+            td.removeChild(elm);
+            td.innerHTML = value;
+        }
+
+        function addInput(elm) {
+            if (elm.getElementsByTagName('input').length > 0) return;
+
+            var value = elm.innerHTML;
+            elm.innerHTML = '';
+
+            var input = document.createElement('input');
+            input.setAttribute('type', 'number');
+            input.setAttribute('value', value);
+            input.setAttribute('onBlur', 'closeInput(this)');
+            input.setAttribute('style', 'width:100px');
+            elm.appendChild(input);
+            input.focus();
+        }
+        function addSelect(elm) {
+            if (elm.getElementsByTagName('select').length > 0) return;
+
+            var value = elm.innerHTML;
+            elm.innerHTML = '';
+
+            var select = document.createElement('select');
+            $(select).append("<option value='4-3'>4-3</option>");
+            $(select).append("<option value='4-2'>4-2</option>");
+            $(select).append("<option value='Regular Shift'>Regular Shift</option>");
+            select.setAttribute('value', value);
+            select.setAttribute('onBlur', 'closeSelect(this)');
+
+            elm.appendChild(select);
+            select.focus();
+        }
+        function closeSelect(elm) {
+            var td = elm.parentNode;
+            var value = elm.value;
+            debugger
+            td.setAttribute('style', 'background-color:cyan')
+            td.removeChild(elm);
+            td.innerHTML = value;
+        }
+
+    </script>
+
+    <script src="~/js/tableToExcel.js"></script>
+    @*<a class="btn btn-success" id="btn-search" href="http://vnhcmm0teapp02/hcsapi/api/debug/export/hcm_swi">E</a>*@
+    <script src="~/js/debughcs.js"></script>
+    @*<script src="~/js/debug.js"></script>*@
+}
+

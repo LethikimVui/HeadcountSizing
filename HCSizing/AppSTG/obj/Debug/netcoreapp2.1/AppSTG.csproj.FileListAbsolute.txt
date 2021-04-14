@@ -1,0 +1,28 @@
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\bin\Debug\netcoreapp2.1\AppSTG.deps.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\bin\Debug\netcoreapp2.1\AppSTG.runtimeconfig.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\bin\Debug\netcoreapp2.1\AppSTG.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\bin\Debug\netcoreapp2.1\AppSTG.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\bin\Debug\netcoreapp2.1\AppSTG.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.AssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\bin\Debug\netcoreapp2.1\AppSTG.deps.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\bin\Debug\netcoreapp2.1\AppSTG.runtimeconfig.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\bin\Debug\netcoreapp2.1\AppSTG.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\bin\Debug\netcoreapp2.1\AppSTG.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\bin\Debug\netcoreapp2.1\AppSTG.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.AssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\AppSTG\obj\Debug\netcoreapp2.1\AppSTG.pdb

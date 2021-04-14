@@ -1,0 +1,69 @@
+﻿@model List<SharedObjects.ValueObjects.VAccessUserRole>
+
+<div class="caption col-md-12">
+    <span class="caption-subject font-green-sharp bold uppercase">
+        Station Data Entrance
+    </span>
+</div>
+<form id="frm-save-debugdata-body">
+    <table class="table table-bordered table-hover table-striped">
+        <thead>
+            <tr class="text-center bold">
+                <td>Ntlogin</td>
+                <td>PlantId</td>
+                <td>CustId</td>
+                <td>CreatedBy</td>
+                <td>CreationDate</td>
+                <td>UpdateDate</td>
+                <td>UpdatedBy</td>
+                <td style="width:100px">Modification</td>
+            </tr>
+        </thead>
+        <tbody id="table-data">
+            <tr class="text-center form-group" id="table-add-debugdata">
+                <td>
+                    <input id="txt-add-debug-Station" class="form-control" name="addDebugStation" />
+                </td>
+                <td>
+                    <input id="txt-add-debug-DebugHitrateYield" for="" class="form-control" name="addDebugHitrateYield" />
+                </td>
+                <td>
+                    <input id="txt-add-debug-HardcoreRate" for="" class="form-control" name="addHardcoreRate" />
+                </td>
+                <td>
+                    <input id="txt-add-debug-DebugTimeForNormalBoard" for="" class="form-control" name="addDebugTimeForNormalBoard" />
+                </td>
+                <td>
+                    <input id="txt-add-debug-DebugTimeForHardcoreBoard" for="" class="form-control" name="addDebugTimeForHardcoreBoard" />
+                </td>
+                <td>
+                    <input id="txt-add-debug-FinalYield" for="" class="form-control" name="addDebugFinalYield" />
+                </td>
+                <td>
+                    <input id="txt-add-debug-DebugRetestPassYield" for="" class="form-control" name="addDebugRetestPassYield" />
+                </td>
+                <td class="text-center">
+                    <a id="btn-adddebugdata" class="btn default btn-xs purple update" title="Add" data-NTID=""> <span class="glyphicon glyphicon-plus"></span></a>
+                </td>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr class="text-center">
+
+                    <td id="Station">@item.Ntlogin</td>
+                    <td id="DebugHitrateYield">@item.PlantId</td>
+                    <td id="DebugHitrateYield">@item.CustId</td>
+                    <td id="DebugTimeForHardcoreBoard">@item.CreatedBy</td>
+                    <td id="DebugTimeForHardcoreBoard">@item.CreationDate</td>
+                    <td id="FinalYield">@item.UpdateDate</td>
+                    <td id="DebugRetestPassYield">@item.UpdatedBy</td>
+                    <td class="text-center">
+                        <a id="btn-editdebugdata" class="btn default btn-xs purple update" data-toggle="modal" href="#modal-debugdata" data-debugdata="" data-updateBy="" title="Edit"> <span class="glyphicon glyphicon-edit"></span></a>
+                        <a id="btn-deletedebugdata" class="btn default btn-xs red delete" data-debugdataid="@item.UserRoleId" data-ntlogin="@item.Ntlogin" title="Delete"> <span class="glyphicon glyphicon-remove"></span></a>
+                    </td>
+                </tr>}
+        </tbody>
+    </table>
+
+</form>

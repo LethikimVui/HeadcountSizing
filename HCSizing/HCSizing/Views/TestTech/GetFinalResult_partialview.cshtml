@@ -1,0 +1,61 @@
+﻿@model List<SharedObjects.ValueObjects.VTestResult>
+@{
+    var months = new List<string> { "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug" };
+    //var Months = ViewData["Months"] as List<string>;
+}
+
+<div class="table-responsive col-md-11 table-responsive">
+    <span class="caption-subject font-green-sharp bold uppercase">
+        Headcount needed
+    </span>
+
+</div>
+<div class="table-responsive col-md-1 table-responsive pull-right">
+    <a class="btn btn-success" id="btn-save-headcount">Save</a>
+    <div style="height:15px">
+    </div>
+</div>
+
+
+<table id="tbl-testresult" class="table table-bordered table-hover table-striped">
+    <thead>
+        <tr class="text-center bold">
+            <td>Month</td>
+            <td><span data-toggle="tooltip" id="addItInfo" data-html="true" title="Some<em>Tooltip</em> <u>with</u> <b>bold words</b>">Calculated Number of Technician</span></td>
+
+            <td>Calculated Number of Technician (Round Up)</td>
+            <td>Current Locked Technician Number</td>
+        </tr>
+    </thead>
+    <tbody id="table-data">
+        @foreach (var item in Model)
+        {
+            <tr class="text-center">
+                <td id="Month">@item.Month</td>
+                <td id="caculated">@item.Calculated</td>
+                <td id="roudup-@item.Month">@item.RoundUp</td>
+                <td id="hc-@item.Month" ondblclick="addInput(this)">@item.LockedTechTest</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <label>Legend:</label>
+</div>
+<div>
+    <div style="float: left;width: 15px; height: 10px; margin: 5px;border: 1px solid rgba(0, 0, 0, .2);background: #00C851;">
+
+    </div>
+    <p style="font-size:9px">
+        Caculated Tech = Current Logged Tech
+    </p>
+    <div style="float: left;width: 15px; height: 10px; margin: 5px;border: 1px solid rgba(0, 0, 0, .2);background: red;"></div>
+    <p style="font-size:8px">
+        Caculated Tech > Current Logged Tech
+    </p>
+    <div style="float: left;width: 15px; height: 10px; margin: 5px;border: 1px solid rgba(0, 0, 0, .2);background: #FFFFB1;"></div>
+    <p style="font-size:9px">
+        Caculated Tech < Current Logged Tech
+    </p>
+</div>
