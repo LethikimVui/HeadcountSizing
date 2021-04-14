@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "About";
+    ViewData["displayName"] = ViewData["displayName"];
+
+}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="inner spotlight">
+                <div class="w3-container">
+                    <div class="portlet light" style="height:120px">
+                        <header>
+                            <h2 style="text-decoration:underline; color:black">Calculations / Formulas</h2>
+                        </header>
+                        <h3>
+                            Debug Techician
+                        </h3>
+                        <p>
+                           Hardcore Rate = 1- Normal Rate (%)
+                        </p>
+                        <p>
+                            First Debug Qty = Forecasted Volume (Qty) * (1-Final Yield(%))
+                        </p>
+                        <p>
+                            FalloutPCBA = First Debug Qty +  (1 - Debug Retest Pass Yield (%)) * First Debug Qty + RMA boards (Qty)
+                        </p>
+                        <p>
+                           Debug time for hardcore board per month <span class="caption-subject font-blue-sharp bold">(1) </span> = Working Efficiency (%) * Average Debug Time (Hardcore Board)(mins) * Hardcore Rate * Fallout PCBA / Debug Hit Rate (%)
+                        </p>
+                        <p>
+                            Debug time for normal board per month <span class="caption-subject font-blue-sharp bold">(2)</span> = FalloutPCBA * Normal Rate * Total time to debug hardcore board per month / Debug Hit Rate (%)
+</p>
+                        <p>
+                            Working Time per Month (mins) <span class="caption-subject font-blue-sharp bold">(3)</span> = Working Day (days) * Working Hour Per Shift (hours) * 60
+                        </p>
+                        <p>
+                            <span class="caption-subject font-blue-sharp bold">Calculated Debug Tech =  [Coverage * (1) + (2)] / (3)  </span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

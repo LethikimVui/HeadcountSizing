@@ -1,0 +1,26 @@
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\bin\Release\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\bin\Release\Services.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\bin\Release\Newtonsoft.Json.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\bin\Release\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\bin\Release\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\bin\Release\Newtonsoft.Json.xml
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\bin\Release\System.ComponentModel.Annotations.xml
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\obj\Release\Services.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\obj\Release\Services.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\obj\Release\Services.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\obj\Release\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\Services\obj\Release\Services.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\bin\Release\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\bin\Release\Services.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\bin\Release\Newtonsoft.Json.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\bin\Release\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\bin\Release\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\bin\Release\Newtonsoft.Json.xml
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\bin\Release\System.ComponentModel.Annotations.xml
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\obj\Release\Services.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\obj\Release\Services.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\obj\Release\Services.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\obj\Release\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\Services\obj\Release\Services.pdb

@@ -1,0 +1,317 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\HCSizing\\HCSizing.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\HCSizingAPI\\HCSizingAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\HCSizingAPI\\HCSizingAPI.csproj",
+        "projectName": "HCSizingAPI",
+        "projectPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\HCSizingAPI\\HCSizingAPI.csproj",
+        "packagesPath": "C:\\Users\\1099969\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\HCSizingAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1099969\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\Services\\Services.csproj"
+              },
+              "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\SharedObjects\\SharedObjects.csproj": {
+                "projectPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\SharedObjects\\SharedObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.9, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.9, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\HCSizing\\HCSizing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\HCSizing\\HCSizing.csproj",
+        "projectName": "HCSizing",
+        "projectPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\HCSizing\\HCSizing.csproj",
+        "packagesPath": "C:\\Users\\1099969\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\HCSizing\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1099969\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\HCSizingAPI\\HCSizingAPI.csproj": {
+                "projectPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\HCSizingAPI\\HCSizingAPI.csproj"
+              },
+              "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\Services\\Services.csproj"
+              },
+              "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\SharedObjects\\SharedObjects.csproj": {
+                "projectPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\SharedObjects\\SharedObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.9, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.14, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.IdentityModel.Logging": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.9, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.BrowserLink": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\Services\\Services.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\SharedObjects\\SharedObjects.csproj": {
+                "projectPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\SharedObjects\\SharedObjects.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\SharedObjects\\SharedObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\SharedObjects\\SharedObjects.csproj",
+        "projectName": "SharedObjects",
+        "projectPath": "C:\\Users\\1099969\\Desktop\\Development_Project\\Web\\ASPNETCore\\HCSizing\\SharedObjects\\SharedObjects.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

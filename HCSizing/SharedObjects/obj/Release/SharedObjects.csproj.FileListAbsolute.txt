@@ -1,0 +1,18 @@
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\SharedObjects\bin\Release\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\SharedObjects\bin\Release\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\SharedObjects\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\SharedObjects\bin\Release\System.ComponentModel.Annotations.xml
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\SharedObjects\obj\Release\SharedObjects.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\SharedObjects\obj\Release\SharedObjects.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\SharedObjects\obj\Release\SharedObjects.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\SharedObjects\obj\Release\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\SharedObjects\obj\Release\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\SharedObjects\bin\Release\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\SharedObjects\bin\Release\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\SharedObjects\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\SharedObjects\bin\Release\System.ComponentModel.Annotations.xml
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\SharedObjects\obj\Release\SharedObjects.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\SharedObjects\obj\Release\SharedObjects.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\SharedObjects\obj\Release\SharedObjects.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\SharedObjects\obj\Release\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\SharedObjects\obj\Release\SharedObjects.pdb

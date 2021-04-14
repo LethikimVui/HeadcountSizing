@@ -1,0 +1,98 @@
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\HCSizing.deps.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\HCSizing.runtimeconfig.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\HCSizing.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\HCSizing.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\HCSizing.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\HCSizing.Views.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\HCSizing.Views.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\HCSizingAPI.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\HCSizingAPI.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\Services.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\bin\Release\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.AssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.TagHelpers.input.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.TagHelpers.output.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.RazorCoreGenerate.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\AddDebugRawData.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\Search.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.RazorTargetAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.Views.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\HCSizing.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\GetDebugResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\GetDebugRawDataByWC_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\HCSizing.deps.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\HCSizing.runtimeconfig.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\HCSizing.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\HCSizing.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\HCSizing.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\HCSizing.Views.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\HCSizing.Views.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\HCSizingAPI.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\HCSizingAPI.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\Services.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\bin\Release\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.AssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.TagHelpers.input.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.TagHelpers.output.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.RazorCoreGenerate.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\AddDebugRawData.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\GetDebugDataByWCandMonth_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\GetDebugRawDataByWC_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\GetDebugResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\Search.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.RazorTargetAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.Views.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.dll
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\HCSizing.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\GetDebugDataByWC_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\GetAllDebugDataByWC_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing STG\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout2.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Admin\GetAllUserRole.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Admin\GetAllUserRole_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\GetAllDebugDataByWC_partialview_remove.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\GetDebugDataByWCandMonth_partialview_remove.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Debug\GetDebugDataByWC_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Home\GetAllColumnName.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout1.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\TestTech\GetDowntime_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\TestTech\GetFinalResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\TestTech\GetTestData.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\Razor\Views\TestTech\Search.g.cshtml.cs
