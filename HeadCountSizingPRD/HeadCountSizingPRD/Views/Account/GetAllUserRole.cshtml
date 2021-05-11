@@ -1,0 +1,63 @@
+﻿@model List<SharedObjects.ValueObjects.VAccessUserRole>;
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <!-- BEGIN EXAMPLE TABLE PORTLET-->
+            <div class="portlet light" style="height:1700px">
+                <div class="portlet-title">
+
+
+                    <div class="caption col-md-12">
+                        <span class="caption-subject font-green-sharp bold uppercase">
+                            Administration - User Role
+                        </span>
+                    </div>
+                    <form id="frm-save-debugdata-body">
+                        <table class="table table-bordered table-hover table-striped">
+                            <thead>
+                                <tr class="text-center bold">
+                                    <td>Ntlogin</td>
+                                    <td>Employee Name</td>
+                                    <td>Role</td>
+                                    <td>Plant</td>
+                                    <td>Workcell</td>
+                                    <td>CreatedBy</td>
+                                    <td>CreationDate</td>
+                                    <td>UpdatedBy</td>
+
+                                    <td>UpdateDate</td>
+                                    <td style="width:100px">Modification</td>
+                                </tr>
+                            </thead>
+                            <tbody id="table-data">
+
+                                @foreach (var item in Model)
+                                {
+                                    <tr class="text-center">
+
+                                        <td id="">@item.Ntlogin</td>
+                                        <td id=""></td>
+                                        <td id="">@item.RoleId</td>
+                                        <td id="">@item.PlantId</td>
+                                        <td id="">@item.CustName</td>
+                                        <td id="">@item.CreatedBy</td>
+                                        <td id="">@item.CreationDate</td>
+                                        <td id="">@item.UpdatedBy</td>
+
+                                        <td id="">@item.UpdateDate</td>
+                                        <td class="text-center">
+                                            <a id="btn-deletedebugdata" class="btn default btn-xs red delete" data-debugdataid="@item.UserRoleId" data-ntlogin="@item.Ntlogin" title="Delete"> <span class="glyphicon glyphicon-remove"></span></a>
+                                        </td>
+                                    </tr>
+                                }
+                              
+                            </tbody>
+                        </table>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

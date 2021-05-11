@@ -1,6 +1,0 @@
-C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\win-x64\HCSizing.csprojAssemblyReference.cache
-C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\win-x64\HCSizing.csproj.CoreCompileInputs.cache
-C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\win-x64\HCSizing.RazorAssemblyInfo.cache
-C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\win-x64\HCSizing.RazorAssemblyInfo.cs
-C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\win-x64\HCSizing.AssemblyInfoInputs.cache
-C:\Users\1099969\Desktop\Development_Project\Web\ASPNETCore\HCSizing\HCSizing\obj\Release\netcoreapp2.1\win-x64\HCSizing.AssemblyInfo.cs
