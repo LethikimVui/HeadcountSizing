@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewData["Title"] = "Summary";
+    var WCs = ViewData["WCs"] as IEnumerable<SharedObjects.ValueObjects.VCustomer>;
+    var FY = ViewData["FY"] as IEnumerable<SharedObjects.ValueObjects.VFiscalYear>;
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <!-- BEGIN EXAMPLE TABLE PORTLET-->
+            <div class="portlet light" style="height:auto">
+                <div class="portlet-title">
+
+                    <div class="caption col-md-12">
+                        <span class="caption-subject font-green-sharp bold uppercase">
+                            Summary (Headcount per shift)
+                        </span>
+                    </div>
+
+                    <div class="portlet-body">
+
+                        <div class="table-toolbar">
+
+                            <div class="col-md-2 pull-left">
+                                <label class="text-center bold font-green-sharp" for="">WorkCell</label>
+                                <select class="form-control" id="txt-wc" data-search="wc" name="wc" style="height: 34px !important; color: mediumvioletred">
+                                    <option value="">--Please Select--</option>
+
+                                    @foreach (var item in @WCs.OrderByDescending(c => c.CustomerName).ToList())
+                                    {
+                                        <option value=@item.CustId>@item.CustomerName</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="col-md-2 pull-left">
+                                <label class="text-center bold font-green-sharp" for="">Fiscal Year</label>
+                                <select class="form-control" id="txt-fy" data-search="fy" name="fy" style="height: 34px !important; color: mediumvioletred">
+                                    <option value="">--Please Select--</option>
+
+                                    @foreach (var item in @FY.OrderByDescending(c => c.FiscalYearId).ToList())
+                                    {
+                                        <option value=@item.FiscalYearId>@item.FiscalYear</option>
+                                    }
+                                </select>
+                            </div>
+
+                            <div class="col-md-1  pull-left">
+                                <a class="btn btn-success" id="btn-search">Search</a>
+                            </div>
+                        </div>                  
+                    </div>
+                </div>
+                @*<div>
+                    <label>Legend:</label>
+                </div>
+                <div>
+                    <div style="float: left;width: 15px; height: 10px; margin: 5px;border: 1px solid rgba(0, 0, 0, .2);background: #00C851;">
+
+                    </div>
+                    <p style="font-size:9px">
+                        Caculated Tech = Current Logged Tech
+                    </p>
+                    <div style="float: left;width: 15px; height: 10px; margin: 5px;border: 1px solid rgba(0, 0, 0, .2);background: red;"></div>
+                    <p style="font-size:8px">
+                        Caculated Tech > Current Logged Tech
+                    </p>
+                    <div style="float: left;width: 15px; height: 10px; margin: 5px;border: 1px solid rgba(0, 0, 0, .2);background: #FFFFB1;"></div>
+                    <p style="font-size:9px">
+                        Caculated Tech < Current Logged Tech
+                    </p>
+                </div>*@
+                <div id="table" class="table-responsive table-responsive">
+
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+@section Script{
+    <script src="~/js/summary.js"></script>
+}

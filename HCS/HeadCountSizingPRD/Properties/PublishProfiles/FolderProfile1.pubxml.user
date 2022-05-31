@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>\\vnhcmm0teapp02\wwwroot\HCSWeb\HCS</_PublishTargetUrl>
+    <History>True|2022-04-26T03:43:03.5522380Z;True|2022-04-25T13:54:43.0301380+07:00;True|2022-04-25T11:26:24.1102266+07:00;True|2022-04-22T09:03:50.5557680+07:00;True|2022-04-21T16:13:51.2752515+07:00;True|2022-04-21T15:50:01.9972705+07:00;False|2022-04-21T15:31:24.2068104+07:00;False|2022-04-21T15:27:46.0990635+07:00;False|2022-04-21T15:25:08.0638345+07:00;</History>
+  </PropertyGroup>
+</Project>

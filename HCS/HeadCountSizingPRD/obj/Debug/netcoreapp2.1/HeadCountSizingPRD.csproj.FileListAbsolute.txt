@@ -1,0 +1,320 @@
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.deps.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.input.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.output.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorCoreGenerate.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\GetAllUserRole.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugData_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetRawDataAsync_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\MonthlyDataEntrance.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\Search.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\Search.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\DataTable.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\GetFinalResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\Search.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\DataTable.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\GetFinalResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.deps.json
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.json
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.dll
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfo.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.input.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.output.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorCoreGenerate.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\GetAllUserRole.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugData_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetRawDataAsync_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\MonthlyDataEntrance.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\Search.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\DataTable.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\GetFinalResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\Search.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\DataTable.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\GetFinalResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\Search.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CopyComplete
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AllUser.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.deps.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.input.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.output.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorCoreGenerate.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\GetAllUserRole.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AllUser.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugData_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetRawDataAsync_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\MonthlyDataEntrance.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\Search.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\DataTable.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\GetFinalResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\Search.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\DataTable.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\GetFinalResult_partialview.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\Search.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.deps.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.dev.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csprojAssemblyReference.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfoInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CoreCompileInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.input.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.output.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorCoreGenerate.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\GetAllUserRole.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AllUser.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugData_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugResult_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetRawDataAsync_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\MonthlyDataEntrance.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\Search.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\DataTable.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\GetFinalResult_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\Search.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\DataTable.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\GetFinalResult_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\Search.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CopyComplete
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.genruntimeconfig.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Summary.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Summary_part.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Headcount.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Headcount_part.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.deps.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.dev.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csprojAssemblyReference.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfoInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CoreCompileInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.input.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.output.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorCoreGenerate.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\GetAllUserRole.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AllUser.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugData_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugResult_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetRawDataAsync_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\MonthlyDataEntrance.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\Search.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Headcount.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Headcount_part.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Summary.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Summary_part.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\DataTable.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\GetFinalResult_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\Search.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\DataTable.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\GetFinalResult_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\Search.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CopyComplete
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.genruntimeconfig.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.deps.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.runtimeconfig.dev.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csprojAssemblyReference.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfoInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.AssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CoreCompileInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.input.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.TagHelpers.output.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorCoreGenerate.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\GetAllUserRole.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AllUser.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugData_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetDebugResult_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\GetRawDataAsync_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\MonthlyDataEntrance.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Debug\Search.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Headcount.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Headcount_part.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Summary.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Home\Summary_part.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\DataTable.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\GetFinalResult_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestOperator\Search.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\DataTable.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\GetFinalResult_partialview.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\TestTech\Search.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.RazorTargetAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.Views.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.csproj.CopyComplete
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Debug\netcoreapp2.1\HeadCountSizingPRD.genruntimeconfig.cache

@@ -1,0 +1,126 @@
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.deps.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.deps.json
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.json
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfo.cs
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CopyComplete
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.deps.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.dev.json
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csprojAssemblyReference.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CoreCompileInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfoInputs.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfo.cs
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CopyComplete
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.deps.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.dev.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csprojAssemblyReference.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfoInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CoreCompileInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CopyComplete
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.genruntimeconfig.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HeadcountSizing\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.deps.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.dev.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csprojAssemblyReference.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfoInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CoreCompileInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CopyComplete
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\HeadCountSizingPRD\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.genruntimeconfig.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.deps.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.runtimeconfig.dev.json
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\bin\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\bin\Debug\netcoreapp2.1\Services.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\bin\Debug\netcoreapp2.1\Services.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\bin\Debug\netcoreapp2.1\SharedObjects.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csprojAssemblyReference.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfoInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.AssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CoreCompileInputs.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.RazorTargetAssemblyInfo.cache
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.csproj.CopyComplete
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.dll
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.pdb
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HCSAPI\obj\Debug\netcoreapp2.1\HCSAPI.genruntimeconfig.cache

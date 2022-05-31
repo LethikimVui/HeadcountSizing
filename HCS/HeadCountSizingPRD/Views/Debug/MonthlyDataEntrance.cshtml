@@ -1,0 +1,87 @@
+﻿@model SharedObjects.ViewModels.AddRawDataViewModel
+
+@{
+    var WCs = ViewData["WCs"] as IEnumerable<SharedObjects.ValueObjects.VCustomer>;
+    var Shifts = ViewData["Shifts"] as IEnumerable<SharedObjects.ValueObjects.VShift>;
+    ViewData["Title"] = "Monthly Data Entrance";
+     var Ntlogin = ViewData["Ntlogin"] as string;
+}
+
+<div class="row">
+    <div class="col-md-offset-0">
+
+        <div class="portlet light col-md-10 col-md-offset-1" style="width:1100px">
+            <div class="portlet green">
+                <h2 style="font:bold">Monthly Data Entry</h2>
+
+                <h4>One Time Configuration Page</h4>
+            </div>
+
+            <form enctype="multipart/form-data" asp-action="AddRawData" asp-controller="Debug" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group col-md-6">
+                    <label asp-for="CustId" class="control-label"></label>
+                    <span asp-validation-for="CustId" class="text-danger"></span>
+
+                    <select asp-for="CustId" class="form-control" id="txt-CustId" data-search="CustId" name="CustId">
+                        <option value="">--Please Select--</option>
+
+                        @foreach (var item in @WCs.OrderByDescending(c => c.CustomerName).ToList())
+                        {
+                            <option value=@item.CustId>@item.CustomerName</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="ShiftId" class="control-label"></label>
+                    <span asp-validation-for="ShiftId" class="text-danger"></span>
+
+                    <select asp-for="ShiftId" class="form-control" id="txt-ShiftId" data-search="ShiftId" name="ShiftId">
+                        <option value="">--Please Select--</option>
+
+                        @foreach (var item in Shifts.OrderByDescending(c => c.ShiftId).ToList())
+                        {
+                            <option value=@item.ShiftId>@item.ShiftCode</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="WorkingEfficiency" class="control-label"></label>
+                    <input asp-for="WorkingEfficiency" class="form-control col-md-6" />
+                    <span asp-validation-for="WorkingEfficiency" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="ForecastedVolume" class="control-label"></label>
+                    <input asp-for="ForecastedVolume" class="form-control col-md-6" />
+                    <span asp-validation-for="ForecastedVolume" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="WorkingDayPerMonth" class="control-label"></label>
+                    <input asp-for="WorkingDayPerMonth" class="form-control col-md-6" />
+                    <span asp-validation-for="WorkingDayPerMonth" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="WorkingHourPerShift" class="control-label"></label>
+                    <input asp-for="WorkingHourPerShift" class="form-control col-md-6" />
+                    <span asp-validation-for="WorkingHourPerShift" class="text-danger"></span>
+                </div>
+
+                <div class="form-group col-md-6">
+                    <label asp-for="UpdatedBy" class="control-label"></label>
+                    <input type="text" asp-for="UpdatedBy" class="form-control col-md-6" value="@Ntlogin" readonly />
+                    <span asp-validation-for="UpdatedBy" class="text-danger"></span>
+                </div>
+                <div class="form-group col-md-6">
+                    <label asp-for="Coverage" class="control-label"></label>
+                    <input type="text" asp-for="Coverage" class="form-control col-md-6" />
+                    <span asp-validation-for="Coverage" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Add" class="btn btn-default" />
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>

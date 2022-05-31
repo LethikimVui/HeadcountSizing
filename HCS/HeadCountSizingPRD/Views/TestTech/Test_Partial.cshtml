@@ -1,0 +1,9 @@
+﻿@model List<SharedObjects.ValueObjects.VStation>
+
+@foreach (var item in Model)
+{
+    <label class="text-center bold font-green-sharp" for="">@item.stationOrTester</label>
+    <input id="@item.stationOrTester" type="number" class="form-control" />
+}
+
+<a class="btn btn-success" id="btn-add">Add</a>

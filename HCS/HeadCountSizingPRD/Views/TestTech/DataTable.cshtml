@@ -1,0 +1,123 @@
+﻿@model List<SharedObjects.ValueObjects.VStation>
+@{
+    ViewData["Title"] = "GetAllColumnName";
+    var months = new List<string> { "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug" };
+    //var months = new List<int> { 1, 2, 3,4, 5, 6, 7, 8, 9, 10, 11, 12 };
+    var downtimeDetail = ViewData["downtimeDetail"] as IEnumerable<SharedObjects.ValueObjects.VDowntime>;
+}
+
+<div class="caption col-md-12">
+    <span class="caption-subject font-green-sharp bold uppercase">
+        Equipment Data Entry
+    </span>
+    <span class="caption-subject font-green-sharp bold uppercase">
+        <a class="btn btn-success" id="btn-add-equipemnt-stationOrTester" data-toggle="modal" style="visibility:hidden">Add Station Data</a>
+    </span>
+</div>
+
+<form id="frm-equipment-body">
+    <table id="tbl-equipment" class="table table-bordered table-hover table-striped">
+        <thead>
+            <tr class="text-center bold">
+                @*<td style="width:50px">
+                    Fiscal Year
+                </td>*@
+                <td style="width:50px">
+                    Month
+                </td>
+                <td class="columnwidth"><input id="txt-add-equipment-stationOrTester" onchange="fncOnchangeStationOrTester()" class="form-control uppercase" name="addStationOrTester" style="height:30px" /></td>
+
+                @foreach (var item in Model)
+                {
+                    <td id="@item.stationOrTester" class="columnwidth">@item.stationOrTester (Qty) </td>}
+                <td class="columnwidth">Modification</td>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int CustId = 1; CustId <= months.Count; CustId++)
+            {
+                <tr class="text-center">
+                    @*<td class="fy">
+                        
+                    </td>*@
+                    <td data-month="@CustId">@months[CustId - 1]</td>
+                    <td class="columnwidth">
+                        <input id="txt-add-equipment-@CustId" type="number" class="form-control" style="height:30px" />
+                    </td>
+                    @foreach (var item1 in Model)
+                    {
+                        <td id="@CustId-@item1.stationOrTester" data-stationname="@item1.stationOrTester" ondblclick="addInput(this)"></td>
+                    }
+                    <td class="text-center">
+                        <a id="btn-editdebugdata" class="btn default btn-xs purple update" data-monthId="@CustId" title="Edit"> <span class="glyphicon glyphicon-floppy-save"></span></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>
+
+<div class="caption col-md-12">
+    <span class="caption-subject font-green-sharp bold uppercase">
+        Downtime Entry
+    </span>
+</div>
+
+<form>
+    <table id="tbl-downtime" class="table table-bordered table-hover table-striped">
+        <thead>
+            <tr class="text-center bold">
+                <td style="width:50px">
+                    Type
+                </td>
+                <td style="width:50px">
+                    Activities
+                </td>
+                @foreach (var item in Model)
+                {
+                    <td id="@item.stationOrTester" class="columnwidth">@item.stationOrTester (mins/day)</td>}
+                <td class="columnwidth">Modification</td>
+            </tr>
+        </thead>
+        <tbody >
+            <tr class="text-center">
+                <td class="columnwidth">
+                    <select class="form-control" id="txt-dowtimetype" style="color:mediumvioletred" onchange="fncOnchangeDowntimeType()">
+                        <option value="0">--Please Select downtime type--</option>
+                        <option value="Planned">Planned</option>
+                        <option value="Unplanned">Unplanned</option>
+                    </select>
+                </td>
+                <td class="columnwidth">
+                    <select class="form-control" id="add-DowntimeDetail" onchange="fncOnchangeDowntimeDetail(this)" style="color:mediumvioletred">
+                        <option value="0">--Please Select--</option>
+                    </select>
+                </td>
+                @foreach (var item1 in Model)
+                {
+                    <td><input type="number" class="form-control" id="add-downtime-@item1.stationOrTester" style="height:30px" /></td>
+                }
+                <td>
+                    <a id="btn-add-downtime" class="btn default btn-xs purple update hiddenTab" title="Add"> <span class="glyphicon glyphicon-plus"></span></a>
+                </td>
+            </tr>
+            @foreach (var i in downtimeDetail)
+            {
+                <tr class="text-center">
+                    <td>@i.DowntimeType</td>
+                    <td>@i.DowntimeDetail</td>
+                    @foreach (var item1 in Model)
+                    {
+                        <td id="@i.DowntimeType-@i.DowntimeDetail-@item1.stationOrTester" ondblclick="addInput(this)"></td>
+                    }
+                    <td class="text-center">
+                        <a id="btn-edit-downtime" class="btn default btn-xs purple update " data-downtimeType="@i.DowntimeType" data-downtimeDetail="@i.DowntimeDetail" title="Edit"> <span class="glyphicon glyphicon-floppy-save"></span></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>
+
+
+
