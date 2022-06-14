@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>\\vnhcmm0teapp02\wwwroot\HCSWeb\HCSAPI</_PublishTargetUrl>
-    <History>True|2022-04-26T03:41:23.5809872Z;True|2022-04-25T13:49:55.0250376+07:00;True|2022-04-21T15:13:37.8094059+07:00;</History>
+    <History>True|2022-06-01T04:14:33.7178053Z;True|2022-04-26T10:41:23.5809872+07:00;True|2022-04-25T13:49:55.0250376+07:00;True|2022-04-21T15:13:37.8094059+07:00;</History>
   </PropertyGroup>
 </Project>

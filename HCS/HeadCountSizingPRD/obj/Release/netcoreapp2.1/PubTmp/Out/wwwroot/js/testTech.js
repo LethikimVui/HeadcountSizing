@@ -7,6 +7,8 @@
     $('body').off('click', '#btn-save-headcount').on('click', '#btn-save-headcount', SaveHeadCount);
 
     var months = ['Sep', 'Oct', 'Nov', 'Dec', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug']
+   
+
 
     function Load() {
         _tranferWCId = parseInt(document.getElementById("txt-wc").value);
@@ -34,7 +36,7 @@
             success: function (response) {
                 $('#table-equipment').html(response);
                 LoadEquipmentTable(_tranferWCId);
-                LoadDowntime(_tranferWCId);
+                LoadDowntime();
             }
         })
     }
@@ -58,7 +60,6 @@
             }
         })
     }
-
     function LoadEquipemt(_tranferWCId, _stationOrTester) {
         var model = new Object();
         model.CustId = _tranferWCId;
@@ -84,8 +85,7 @@
         })
         LoadDowntime(_tranferWCId)
     }
-
-    function LoadDowntime(_tranferWCId) {
+    function LoadDowntime() {
         var model = new Object();
         model.CustId = parseInt(document.getElementById("txt-wc").value);
         model.FiscalYearId = parseInt(document.getElementById("txt-fy").value);
@@ -104,6 +104,9 @@
             }
         })
     }
+   
+
+   
     function AddStationData() {
         _tranferWCId = parseInt(document.getElementById("txt-wc").value);
         station = $("#txt-add-equipment-stationOrTester").val();

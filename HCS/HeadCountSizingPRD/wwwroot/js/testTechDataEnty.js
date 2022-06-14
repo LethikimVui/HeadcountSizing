@@ -3,9 +3,10 @@
     $('body').off('click', '#btn-add').on('click', '#btn-add', Add);
 
     user = document.getElementById('userinfo').getAttribute('data-user');
-    //name = document.getElementById('userinfo').getAttribute('data-display-name');
-    //email = document.getElementById('userinfo').getAttribute('data-email');
+    name = document.getElementById('userinfo').getAttribute('data-display-name');
+    email = document.getElementById('userinfo').getAttribute('data-email');
 
+    var error = false;
     function Search() {
         custId = parseInt($('#txt-wc').val());
         fiscalYearId = parseInt($('#txt-fy').val());
@@ -15,7 +16,7 @@
         debugger
         $.ajax({
             type: 'post',
-            url: '/testtech/Test_Partial',
+            url: '/testtech/DataEnty_Partial',
             data: JSON.stringify(model),
             contentType: 'application/json;charset=utf-8',
             success: function (response) {
@@ -46,6 +47,10 @@
                 $.each(data, function (index, value) {
                     AddEquipment( value.stationOrTester)
                 });
+                if (!error) {
+                    bootbox.alert('update ok');
+                    location.reload();
+                }
             }
         })
     }
@@ -67,8 +72,14 @@
             url: '/testtech/Test_Equipment_add',
             data: JSON.stringify(model),
             dataType: 'json',
+            contentType: "application/json; charset=utf-8",
             success: function (response) {
                 debugger
+                statusCode = response.result.statusCode;
+                if (statusCode !=200) {
+                    error = true;
+                    bootbox.alert('error on updating ' + model.Station +" " + response.result.message);
+                }
             }
             
         })

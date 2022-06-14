@@ -1021,6 +1021,7 @@ C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS
 C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\js\tableToExcel.js
 C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\js\testOperatorPRD.js
 C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\js\testTech.js
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\js\testTechDataEnty.js
 C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\js\twbs-pagination\jquery.twbsPagination.js
 C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\js\twbs-pagination\jquery.twbsPagination.min.js
 C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\lib\bootstrap\.bower.json

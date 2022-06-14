@@ -13,9 +13,9 @@ namespace Services.Services
         public BaseService()
         {
             httpClient = new HttpClient();
-            //httpClient.BaseAddress = new Uri("http://vnhcmm0teapp02/hcsapi/");
+            httpClient.BaseAddress = new Uri("http://vnhcmm0teapp02/hcsapi/");
 
-            httpClient.BaseAddress = new Uri("http://localhost:50305");
+            //httpClient.BaseAddress = new Uri("http://localhost:50305");
         }
     }
 }

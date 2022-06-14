@@ -125,7 +125,7 @@ namespace HeadCountSizingPRD.Controllers
             return Json(new { statusCode = result.StatusCode });
         }
         [HttpGet]
-        public async Task<IActionResult> Test()
+        public async Task<IActionResult> DataEnty()
         {
             var token = User.GetSpecificClaim("token");
             string Ntlogin = User.GetSpecificClaim("Ntlogin");
@@ -134,14 +134,12 @@ namespace HeadCountSizingPRD.Controllers
             ViewData["WCs"] = WCs;
             var FY = await commonService.Master_FiscalYear_get();
             ViewData["FY"] = FY;
-
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Test_Partial([FromBody] TestViewModel model)
+        public async Task<IActionResult> DataEnty_Partial([FromBody] TestViewModel model)
         {
             var results = await testTechService.Equipment_GetStationList_technician(model);
-
             return PartialView(results);
         }
 

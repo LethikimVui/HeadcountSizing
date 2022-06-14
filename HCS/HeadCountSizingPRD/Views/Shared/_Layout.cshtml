@@ -1,4 +1,6 @@
 ﻿@using SharedObjects.Extensions
+@using Microsoft.Extensions.Configuration;
+@inject IConfiguration configuration
 <!DOCTYPE html>
 <html lang="en">
 
@@ -87,8 +89,40 @@
                 <div class="hor-menu ">
 
                     <ul class="nav navbar-nav">
+                        @*<li>
+                            <a target="_blank" href=@configuration["DashBoadLink"]>   <i class="icon-home"></i><span>DashBoard </span> </a>
+                        </li>
                         <li>
                             <a asp-action="Summary" asp-controller="Home">   <i class="icon-home"></i><span>Summary </span> </a>
+                        </li>*@
+
+                        <li class="menu-dropdown mega-menu-dropdown ">
+                            <a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;" class="dropdown-toggle">
+                                Home <i class="fa fa-angle-down"></i>
+                            </a>
+
+                            <ul class="dropdown-menu" style="        min-width: 250px">
+                                <li>
+                                    <div class="mega-menu-content">
+                                        <div class="row">
+                                            <!--one menu-->
+                                            <div class="col-md-12">
+                                                <ul class="mega-menu-submenu">
+                                                    <li>
+                                                        <a target="_blank" href=@configuration["DashBoadLink"]>   <i class="icon-pin"></i><span>DashBoard </span> </a>
+
+                                                    </li>
+                                                    <li>
+                                                        <a asp-action="Summary" asp-controller="Home">   <i class="icon-home"></i><span>Summary </span> </a>
+
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
                         </li>
                         <li>
                             <a asp-action="MonthlyDataEntrance" asp-controller="debug">
@@ -100,12 +134,37 @@
                                 Debug
                             </a>
                         </li>
-                        <li>
-                            <a asp-action="search" asp-controller="testtech">
-                                Test
+
+                        <li class="menu-dropdown mega-menu-dropdown ">
+                            <a data-hover="megamenu-dropdown" data-close-others="true" data-toggle="dropdown" href="javascript:;" class="dropdown-toggle">
+                                Test <i class="fa fa-angle-down"></i>
                             </a>
+
+                            <ul class="dropdown-menu" style="        min-width: 250px">
+                                <li>
+                                    <div class="mega-menu-content">
+                                        <div class="row">
+                                            <!--one menu-->
+                                            <div class="col-md-12">
+                                                <ul class="mega-menu-submenu">
+                                                    <li>
+                                                        <a asp-action="search" asp-controller="testtech">
+                                                            <i class="icon-pin"></i> Test
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a asp-action="DataEnty" asp-controller="testtech">
+                                                            <i class="icon-pin"></i> One Time Test Data Entry
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
                         </li>
-                       
                         @if (@User.GetSpecificClaim("RoleId") == "2")
                         {
                             <li class="menu-dropdown mega-menu-dropdown ">
@@ -159,7 +218,7 @@
                         </li>
 
                         <li class="dropdown dropdown-user dropdown-dark" style="position: absolute; right: 0px;top:0px">
-                            <a id="userinfo" href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true" data-user="@User.GetSpecificClaim("Ntlogin")">
+                            <a id="userinfo" href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true" data-user="@User.GetSpecificClaim("Ntlogin")" data-display-name="@User.GetSpecificClaim("UserName")" data-email="@User.GetSpecificClaim("Email")">
                                 <img alt="" class="img-circle" src="~/assets/admin/layout3/img/logout.png" style="width: 25px">
                                 Hi @User.GetSpecificClaim("UserName") (@User.GetSpecificClaim("Ntlogin"))
                             </a>

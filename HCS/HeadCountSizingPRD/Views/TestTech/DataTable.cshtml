@@ -20,8 +20,8 @@
         <thead>
             <tr class="text-center bold">
                 @*<td style="width:50px">
-                    Fiscal Year
-                </td>*@
+                        Fiscal Year
+                    </td>*@
                 <td style="width:50px">
                     Month
                 </td>
@@ -29,7 +29,8 @@
 
                 @foreach (var item in Model)
                 {
-                    <td id="@item.stationOrTester" class="columnwidth">@item.stationOrTester (Qty) </td>}
+                    <td id="@item.stationOrTester" class="columnwidth">@item.stationOrTester (Qty) </td>
+                }
                 <td class="columnwidth">Modification</td>
             </tr>
         </thead>
@@ -38,8 +39,8 @@
             {
                 <tr class="text-center">
                     @*<td class="fy">
-                        
-                    </td>*@
+
+                        </td>*@
                     <td data-month="@CustId">@months[CustId - 1]</td>
                     <td class="columnwidth">
                         <input id="txt-add-equipment-@CustId" type="number" class="form-control" style="height:30px" />
@@ -75,11 +76,12 @@
                 </td>
                 @foreach (var item in Model)
                 {
-                    <td id="@item.stationOrTester" class="columnwidth">@item.stationOrTester (mins/day)</td>}
+                    <td id="@item.stationOrTester" class="columnwidth">@item.stationOrTester (mins/month)</td>
+                }
                 <td class="columnwidth">Modification</td>
             </tr>
         </thead>
-        <tbody >
+        <tbody>
             <tr class="text-center">
                 <td class="columnwidth">
                     <select class="form-control" id="txt-dowtimetype" style="color:mediumvioletred" onchange="fncOnchangeDowntimeType()">

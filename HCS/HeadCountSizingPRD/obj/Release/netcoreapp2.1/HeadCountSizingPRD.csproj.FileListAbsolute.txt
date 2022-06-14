@@ -318,5 +318,5 @@ C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS
 C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\HeadCountSizingPRD.dll
 C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\HeadCountSizingPRD.pdb
 C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\HeadCountSizingPRD.genruntimeconfig.cache
-C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\Razor\Views\TestTech\Test.cshtml.g.cs
-C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\Razor\Views\TestTech\Test_Partial.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\Razor\Views\TestTech\DataEnty.cshtml.g.cs
+C:\Users\1099969\OneDrive - Jabil\Desktop\Development_Project\Web\GitHub\HCS\HCS\HeadCountSizingPRD\obj\Release\netcoreapp2.1\Razor\Views\TestTech\DataEnty_Partial.cshtml.g.cs
